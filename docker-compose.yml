@@ -1,0 +1,8 @@
+version: "2.1"
+services:
+  mikhmon:
+    image: animega/mikbotam:latest
+    container_name: mikbotam
+    ports:
+      - 8080:80
+    restart: unless-stopped
