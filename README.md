@@ -11,7 +11,7 @@
 
 ---
 
-MikroTik Bot Telegram (Mikbotam) is a web-based application that combines Mikrotik with a Telegram bot with the main function as hotspot management using a Telegram bot.
+MikroTik Bot Telegram (Mikbotam) is a web-based application that combines Mikrotik and Telegram bot with the main function as hotspot management using a Telegram bot.
 <br>
 <br>
 The image build on <a href="http://www.alpinelinux.org" target="_blank">Alpine Linux</a> and App Mikbotam from <a href="https://github.com/mikbotam/Mikbotam" target="_blank">BangAchil</a>.
