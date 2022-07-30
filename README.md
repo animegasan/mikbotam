@@ -54,13 +54,16 @@ docker run -d \
   --restart unless-stopped \
   animegasan/mikbotam:latest
 ```
+
+---
+
 ### Web Interface
 
 Open your web browser and visit the url http://localhost:8080 to have access to
 the Mikbotam's web interface.
 
--   Default username: `admin`.
--   Default password: `admin`.
+-   Default username: `admin`
+-   Default password: `admin`
 
 **It's highly recommended to change the default access credentials on first start**.
 
