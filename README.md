@@ -6,7 +6,7 @@
 ---
 
 <p align="center">
-<img alt="Logo Banner" src=""/>
+<img alt="Logo Banner" src="https://raw.githubusercontent.com/animegasan/mikbotam/main/img/banner.png"/>
 </p>
 
 ---
