@@ -1,5 +1,5 @@
 # Startup from alpine
-FROM alpine:3.5
+FROM alpine:3.13
 LABEL Maintainer = "Hilman Maulana, BangAchil"
 LABEL Description = "Mikhbotam is a web-based application that combines Mikrotik with a Telegram bot with the main function as hotspot management using a Telegram bot."
 
