@@ -72,8 +72,8 @@ The package used by this image are:
 ---
 
 ## Version
-### Version 4 Beta
-* **4-4.2.2:**
+### 1.8 krakatau
+- Added uptime limit in voucher settings Improved uptime limit and increased quota limit Improvements to the Add Profile hotspot script (lock user and validity = grace period / user is automatically deleted after reaching validity) Improvements to add PPP profile Improvements to monthly reports.
 
 ---
 
